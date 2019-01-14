@@ -1,0 +1,16 @@
+.img-small {
+    width: 900px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.img {
+    text-decoration: none;
+    margin-right: 25px;
+    margin-top: 15px;
+}
+
+.big-img{
+    margin-top: 25px;
+}
